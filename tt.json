@@ -1,0 +1,6 @@
+{"id": "pay_HCDhO7utL1tDlD", "entity": "payment", "amount": 150000, "currency": "INR", 
+  "status": "authorized", "order_id": None, "invoice_id": None, "international": False, "method": "netbanking", 
+  "amount_refunded": 0, "refund_status": None, "captured": False, "description": "4339", "card_id": None, "bank": "ICIC", 
+  "wallet": None, "vpa": None, "email": "rj@gmail.com", "contact": "+918998571569", "notes": [],
+  "fee": None, "tax": None, "error_code": None, "error_description": None, "error_source": None, "error_step": None, 
+  "error_reason": None, "acquirer_data": {"bank_transaction_id": "2922151"}, "created_at": 1621333198, "success": True}
